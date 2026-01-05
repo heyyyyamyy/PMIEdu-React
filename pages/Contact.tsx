@@ -291,7 +291,7 @@ const Contact: React.FC = () => {
                     </div>
                     <div>
                         <h3 className="text-white font-bold text-lg">Visit Us</h3>
-                        <p className="text-gray-400 max-w-xs">105 WeWork, Oberoi Commerz II, Oberoi Garden City, Goregaon East, Mumbai 400063</p>
+                        <p className="text-gray-400 max-w-xs">5th Floor, NBP Green Heights, C-69, Bandra Kurla Complex Rd, opposite to MCA Club, G Block BKC, Bandra East, Mumbai, Maharashtra 400051</p>
                     </div>
                 </div>
                 
